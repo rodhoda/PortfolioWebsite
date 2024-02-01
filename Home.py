@@ -19,7 +19,7 @@ with col2:
 
     st.info(content)
 
-    st.write("Below you can find some of the apps I have built. Feel free to contact me.")
+    st.write("Below you can find some of the apps I have built. Feel free to contact me!")
 
     
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
