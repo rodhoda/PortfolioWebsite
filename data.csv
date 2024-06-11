@@ -1,21 +1,12 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Student Scheduler;  This app is designed for freelance teachers to streamline their schedules and provide an automated system to send tailored SMS reminders to parents and students.;https://github.com/rodhoda/Student-Auto-Messenger;1.png
+PDF Chatbot; An LLM-based chatbot that learns from PDF files and answers questions based on the contents.;https://github.com/rodhoda/PDF-Chatbot;2.png
 X-Ray Pneumonia Detection;A Machine Learning program consisted of a CNN model trained to detect pneumonia in patient x-rays.;https://github.com/rodhoda/Pneumonia_Detection_Classifier;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
-Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
-Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
-Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;12.png
-Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+Sudoku Genetic Solver; A genetic algorithm designed to solve sudoku puzzles.;https://github.com/rodhoda/Sudoku-Genetic-Solver;4.png
+Unix File System; Implemented a Unix-like file system (BFS) for an Operating Systems course, featuring file creation, reading, writing, and metadata management.;NaN;5.png
+Motorola 68K Assembly Disassembler; A program that reverts machine binary into assembly code.;https://github.com/rodhoda/Motorola-68K-Assembly-Disassembler;6.png
+Pacman AI Bot; Developed AI techniques for playing Pac-Man in UC Berkeley's CS 188 course to teach foundational AI concepts.;https://github.com/am068/PacMan;7.png
+Multi-API Messenger; Consolidates various matters of interest (weather, specific news, job postings, etc.) into a single text message and sends via SMS on a daily basis.;https://github.com/rodhoda/Multi-API-Messenger;8.png
+C Memory Allocation; Developed a memory management system simulating contiguous memory allocation algorithms.;https://github.com/rodhoda/430_Memory_Allocation;9.png
+Unix Shell; This project consists of designing a C program to serve as a shell interface that accepts user commands and then executes each command in a separate process.;10.png
+CPU Scheduler; Implemented various process scheduling algorithms (FCFS, SJF, Priority, Round-Robin, and Priority Round-Robin) in C.;https://github.com/rodhoda/CSS430_CPU_Scheduler;11.png
