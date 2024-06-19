@@ -1,7 +1,7 @@
 import streamlit as st
 from send_email import send_email
 
-st.header("Contact Us")
+st.header("Contact Me")
 
 
 with st.form(key="email_forms"):
